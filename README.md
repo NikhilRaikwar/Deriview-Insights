@@ -2,7 +2,10 @@
 # 📊 Deriview Insights 
 ### Advanced Trading Analytics for the Deriverse Ecosystem
 
-![Deriverse Dashboard Preview](./public/preview.png)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-success?style=for-the-badge&logo=vercel)](https://deriview-insights.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/NikhilRaikwar/Deriview-Insights)
+
+![Deriview Dashboard Analysis](./public/deriview.png)
 
 > **Deriview Insights** is a professional-grade trading analytics platform built specifically for [Deriverse](https://deriverse.io). It transforms complex on-chain data into actionable insights, helping active traders maximize their performance through detailed PnL tracking, risk analysis, and automated journaling.
 
@@ -97,8 +100,8 @@ The application includes a robust error-handling system that detects protocol ve
 
 ## 🏆 Submission Details
 
-- **GitHub Repository**: [LINK_TO_REPO]
-- **Twitter/X**: [LINK_TO_PROFILE]
-- **Discord**: [YOUR_HANDLE]
+- **GitHub Repository**: [https://github.com/NikhilRaikwar/Deriview-Insights](https://github.com/NikhilRaikwar/Deriview-Insights)
+- **Live Deployment**: [https://deriview-insights.vercel.app/](https://deriview-insights.vercel.app/)
+- **Twitter**: [Nikhil Raikwar](https://twitter.com/nikhilraikwarr)
 
 *Submitted for the Deriverse Trading Analytics Challenge 2026.*
